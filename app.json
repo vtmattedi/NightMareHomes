@@ -8,6 +8,30 @@
       "expo-router"
     ],
     "name": "NightMareHomes",
-    "slug": "NightMareHomes"
+    "slug": "NightMareHomes",
+    "android": {
+      "package": "com.vtmattedi.NightMareHomes"
+    },
+    "icon": "./Assets/images/icon.png",
+    "splash": {
+      "image": "./Assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ccc"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vtmattedi.NightMareHomes",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "51ee4d66-d3ac-457c-a258-fc59bec3b03f"
+      }
+    }
   }
 }

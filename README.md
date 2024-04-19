@@ -1,13 +1,7 @@
-# Expo Router Example
+# NightMareHomes
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+The NightMareHolmes App is a front end to the NightMare ecosystem allowing a user to control the Devices on the network from anywhere in the world in the palm of their hand.
 
-## 🚀 How to use
+## License
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.

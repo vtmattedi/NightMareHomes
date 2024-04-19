@@ -9,6 +9,11 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+ios/
 
 # macOS
 .DS_Store
+.vscode/
+android/
+
+/consts/Creds.js
