@@ -5,7 +5,7 @@ The NightMareHolmes App is a front end to the NightMare ecosystem allowing a use
 ## Funcionalities
 The App was designed based on a grid of buttons and each of them has a functionality assigned to either a press or a long press. The buttons also display information relevant the each funcionality, like the AC temperature or the color of the led strip. 
 
-![Page](http://url/to/img.png)
+![Page](https://github.com/vtmattedi/NightMareHomes/Images/example.jpeg)
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
 
