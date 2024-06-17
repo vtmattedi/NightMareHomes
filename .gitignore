@@ -19,4 +19,4 @@ android/
 /consts/Creds.js
 
 # WSL
-.%ProgramData%/
+*.uusver
