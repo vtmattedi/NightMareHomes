@@ -17,3 +17,6 @@ ios/
 android/
 
 /consts/Creds.js
+
+# WSL
+.%ProgramData%/
